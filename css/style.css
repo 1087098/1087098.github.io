@@ -1,0 +1,42 @@
+ body {
+    display: flex;
+    justify-content:center; ;
+    margin:0px;
+    padding: 70px;
+  }
+   
+  header {
+    background-color: rgb(75, 141, 167);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 800px;
+    width: 15%;
+    padding: 35px;
+    margin: 10;
+    margin-right: 0px;
+   
+  }
+   
+  header h1 {
+    margin: 10;
+    padding-left: 20px;  
+  }
+   
+  header img {
+    width: 200px;  
+    height: 250px;  
+  }
+   
+  header .image-text {
+    text-align: center;  
+    margin-top: 15px;  
+    padding: 5px;
+   
+  }
+   
+  article {
+    width: 70%; 
+    margin-left: 0;
+    padding: 30px; 
+  }
